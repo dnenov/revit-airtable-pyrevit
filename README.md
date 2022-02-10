@@ -6,3 +6,5 @@
 `%appdata%\pyRevit-Master\extensions\pyRevitTutor.extension\pyRevitTutor.tab\Sessions.panel\Airtable.pushbutton`
 
 If using the above, make sure you enable the pyRevit Tutor module from pyRevit extensions. You may have to restart Revit for pyRevit UI changes to take effect.
+
+[YouTube](https://www.youtube.com/watch?v=8wW_h9jD1Yc&t=0s)
